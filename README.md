@@ -109,8 +109,6 @@ Kernel → Restart & Run All
 ---
 
 ## 👩‍💻 Author
-
-[Sujal Gaikwad]
-
+Sujal Gaikwad
 Data Science Internship Assignment  
 Trader Behavior & Sentiment Analysis
